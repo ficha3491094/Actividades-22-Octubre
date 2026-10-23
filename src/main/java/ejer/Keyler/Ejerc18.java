@@ -3,7 +3,7 @@ cuadrado dado uno de sus lados P = 4 · a
 A= a2*/
  
   
-package ejerc18;
+package ejer.Keyler;
 
 import javax.swing.JOptionPane;
 
